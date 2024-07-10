@@ -1,0 +1,15 @@
+C:\Users\practicas\RiderProjects\NewJetBrains\DonutC\bin\Debug\net8.0\DonutC.exe
+C:\Users\practicas\RiderProjects\NewJetBrains\DonutC\bin\Debug\net8.0\DonutC.deps.json
+C:\Users\practicas\RiderProjects\NewJetBrains\DonutC\bin\Debug\net8.0\DonutC.runtimeconfig.json
+C:\Users\practicas\RiderProjects\NewJetBrains\DonutC\bin\Debug\net8.0\DonutC.dll
+C:\Users\practicas\RiderProjects\NewJetBrains\DonutC\bin\Debug\net8.0\DonutC.pdb
+C:\Users\practicas\RiderProjects\NewJetBrains\DonutC\obj\Debug\net8.0\DonutC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\practicas\RiderProjects\NewJetBrains\DonutC\obj\Debug\net8.0\DonutC.AssemblyInfoInputs.cache
+C:\Users\practicas\RiderProjects\NewJetBrains\DonutC\obj\Debug\net8.0\DonutC.AssemblyInfo.cs
+C:\Users\practicas\RiderProjects\NewJetBrains\DonutC\obj\Debug\net8.0\DonutC.csproj.CoreCompileInputs.cache
+C:\Users\practicas\RiderProjects\NewJetBrains\DonutC\obj\Debug\net8.0\DonutC.sourcelink.json
+C:\Users\practicas\RiderProjects\NewJetBrains\DonutC\obj\Debug\net8.0\DonutC.dll
+C:\Users\practicas\RiderProjects\NewJetBrains\DonutC\obj\Debug\net8.0\refint\DonutC.dll
+C:\Users\practicas\RiderProjects\NewJetBrains\DonutC\obj\Debug\net8.0\DonutC.pdb
+C:\Users\practicas\RiderProjects\NewJetBrains\DonutC\obj\Debug\net8.0\DonutC.genruntimeconfig.cache
+C:\Users\practicas\RiderProjects\NewJetBrains\DonutC\obj\Debug\net8.0\ref\DonutC.dll
